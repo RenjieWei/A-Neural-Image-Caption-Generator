@@ -35,7 +35,8 @@ In conclusion, they present NIC(Neural Image Caption Generator) --- an end-to-en
 * Perform a series of experiments to assess the effectiveness of the model using several metrics (e.g. BLEU score, METEOR, Cider etc.) compared with prior art as well as human evaluation
 * Analyze generation result and generation diversity as the paper does
 ```
-Weekly meeting is held on every Thursday in the following weeks. Group members will report their progress, and set their goals for next week.
+Weekly meeting is held on every Thursday in the following weeks. Group members will report their progress, 
+and set their goals for next week.
 ```
 ##### Computations and computational hours
 * This project focuses on generating sentences on test set that has the accuracy no less than the original paper by Vinyals et.al. on 2015. If possible, we will try to make improvement by introducing methods from other papers on Neural Image Captioning.
